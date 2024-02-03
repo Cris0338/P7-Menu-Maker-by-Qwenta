@@ -1,8 +1,11 @@
 Giyhub
 https://github.com/Cris0338/P7-Menu-Maker-by-Qwenta.git
 
-Notion
+Notion User Stories
 https://plausible-ptarmigan-e7b.notion.site/e9b4d45e120f40dfa14a8d782423d516?v=240d7abcfc3a41a1bb349351d6b2f1b0
+
+Notion Taches, Kanban et Calendrier
+https://plausible-ptarmigan-e7b.notion.site/4f2af034d7974005b559d7a8c80a22fb?v=dda64531abe94ae38f303dbe2c7eb43f&pvs=4
 
 Nucida Christian Spécifications techniques 01-2024
 https://docs.google.com/document/d/1IiLpkPO-4LkHUSM_Lxfu46gGACxWH4-rI9W3JkfDOso/edit?usp=sharing
